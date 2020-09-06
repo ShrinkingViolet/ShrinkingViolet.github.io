@@ -112,9 +112,35 @@ deploy:
 feed:
   type: atom
   path: atom.xml
-  limit: 500
+  limit: 20
   hub:
   content: true
   content_limit: 140
   content_limit_delim: ' '
   order_by: -date
+
+live2d:
+ enable: true                             # 开启Live2D
+ scriptFrom: local                        # 插件来源
+ pluginRootPath: live2dw/                 # 插件根目录(相对路径)
+ pluginJsPath: lib/                       # 脚本文件路径(相对于插件根目录路径)
+ pluginModelPath: assets/                 # 模型文件路径(相对于插件根目录)
+ tagMode: false                           # 是否标签模式
+ debug: false                             # 是否开启调试模式
+ model:
+  use: live2d-widget-model-shizuku        # 选择模型
+ display:
+  position: right                        # 模型在页面上的位置
+  width: 220                             # 模型宽度
+  height: 440                            # 模型高度
+ mobile:
+  show: false                             # 是否在手机端显示
+ react:
+  opacity: 1                             # 设置模型不透明度
+
+# Search
+search:
+  path: search.xml
+  field: post
+  format: html
+  limit: 10000
