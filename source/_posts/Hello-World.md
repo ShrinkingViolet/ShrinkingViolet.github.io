@@ -10,15 +10,15 @@ categories:
 
 ***
 很早就有想自己搭建一个博客的想法，但由于~~懒~~学业繁忙，现在才开始动手  
-使用Hexo博客生成器 NexT主题环境 以imgchr为图床  
+使用Hexo博客生成器 NexT主题环境  
 虽然Hexo很好用，但我还是走了不少弯路  
 先是由于某种不知名的bug尝试[sagiri](https://github.com/DIYgod/hexo-theme-sagiri)近一个小时始终无法渲染，再是因为种种原因先后删库三次，甚至在发这篇文章的时候又出问题了  
 查了不少资料，有些资料的部分程序版本几乎是古董了，但还是给我带来了很大帮助
 然而挺多问题都是请教别人后才解决的
-最后感谢[学长](https://beautyyu.top)的大力支持(~~可以说没有他就没有我这个博客哈哈~~)  
+最后感谢[学长](https://beautyyu.top)的大力支持 
 
 ***
-![放张图压压惊](Hello-World/1.jpg)
+![avatar](https://pics.shviolet.tk/origin/(69779822)魔女兵器_p0.jpg)
 ***
 <div align= center> 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=509313150&auto=1&height=66"></iframe>
