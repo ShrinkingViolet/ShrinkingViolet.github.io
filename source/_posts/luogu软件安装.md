@@ -41,21 +41,7 @@ lw同学：“我*，这题我居然想用kruskal。算了等明天早上再来A
 	#include <cstring>
 	#include <stack>
 	const int MAX = 2000;
-	int n,
-	    m,
-	    cnt,
-	    depth,
-	    Bcnt,
-	    ww[MAX],
-	    vv[MAX],
-	    dd[MAX],
-	    Bnum[MAX],
-	    dfn[MAX],
-	    low[MAX],
-	    head[MAX],
-	    W[MAX],
-	    V[MAX],
-	    ans[MAX][MAX];
+	int n,m,cnt,depth,Bcnt,ww[MAX],vv[MAX],dd[MAX],Bnum[MAX],dfn[MAX],low[MAX],head[MAX],W[MAX],V[MAX],ans[MAX][MAX];
 	bool vis[MAX];
 	std::stack<int> s;
 	struct edge
