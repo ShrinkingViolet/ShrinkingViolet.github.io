@@ -18,7 +18,7 @@ categories:
 最后感谢[学长](https://beautyyu.top)的大力支持 
 
 ***
-![放张图片压压惊](https://pics.shviolet.tk/origin/(69779822)%E9%AD%94%E5%A5%B3%E5%85%B5%E5%99%A8_p0.jpg)
+![picture](https://pics.shviolet.tk/origin/(69779822)%E9%AD%94%E5%A5%B3%E5%85%B5%E5%99%A8_p0.jpg)
 ***
 <div align= center> 
 <iframe frameborder="no" border="0" marginwidth="0" marginheight="0" width=330 height=86 src="//music.163.com/outchain/player?type=2&id=509313150&auto=1&height=66"></iframe>
