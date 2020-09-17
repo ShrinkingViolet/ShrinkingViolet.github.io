@@ -19,7 +19,7 @@ categories:
 
 ***
 
-![avatar](https://pics.shviolet.tk/origin/1.jpg)
+![放张图片压压惊](https://pics.shviolet.tk/origin/1.jpg)
 
 ***
 <div align= center> 
