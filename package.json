@@ -29,18 +29,5 @@
     "hexo-renderer-stylus": "^2.0.0",
     "hexo-server": "^2.0.0",
     "live2d-widget-model-shizuku": "^1.0.5"
-  },
-  "main": "gulp.js",
-  "devDependencies": {},
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/ShrinkingViolet/ShrinkingViolet.github.io.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/ShrinkingViolet/ShrinkingViolet.github.io/issues"
-  },
-  "homepage": "https://github.com/ShrinkingViolet/ShrinkingViolet.github.io#readme",
-  "description": ""
+  }
 }
