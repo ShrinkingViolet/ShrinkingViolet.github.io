@@ -4,10 +4,10 @@
 
 # Site
 title: 巽星莊
-subtitle: Shviolet的个人博客
+subtitle: Yoruet的个人博客
 description: 热爱二次元 | 学习技术
-keywords: Shviolet
-author: Shviolet
+keywords: Yoruet
+author: Yoruet
 language: zh-CN
 timezone: ''
 
@@ -105,7 +105,7 @@ theme: next
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repository: git@github.com:ShrinkingViolet/ShrinkingViolet.github.io.git
+  repository: git@github.com:Yoruet/Yoruet.github.io.git
   branch: master
   
 # Feed Atom
