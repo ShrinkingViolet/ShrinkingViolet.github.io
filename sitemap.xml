@@ -2,14 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://shviolet.tk/about/index.html</loc>
+    <loc>http://shviolet.tk/2020/12/12/NOIp2020%E6%B8%B8%E8%AE%B0/</loc>
     
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-02-25</lastmod>
     
   </url>
   
   <url>
-    <loc>http://shviolet.tk/2020/12/12/NOIp2020%E6%B8%B8%E8%AE%B0/</loc>
+    <loc>http://shviolet.tk/about/index.html</loc>
     
     <lastmod>2021-02-14</lastmod>
     
@@ -46,7 +46,7 @@
 
   <url>
     <loc>http://shviolet.tk/</loc>
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -54,35 +54,28 @@
   
   <url>
     <loc>http://shviolet.tk/tags/%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2021-02-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://shviolet.tk/tags/%E6%97%A5%E8%AE%B0/</loc>
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://shviolet.tk/tags/%E9%A2%98%E8%A7%A3/</loc>
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://shviolet.tk/tags/tarjan/</loc>
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://shviolet.tk/tags/%E8%83%8C%E5%8C%85/</loc>
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -91,21 +84,14 @@
   
   <url>
     <loc>http://shviolet.tk/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2021-02-14</lastmod>
-    <changefreq>daily</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://shviolet.tk/categories/%E7%94%9F%E6%B4%BB/</loc>
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
     <loc>http://shviolet.tk/categories/%E7%AE%97%E6%B3%95/</loc>
-    <lastmod>2021-02-14</lastmod>
+    <lastmod>2021-02-25</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>

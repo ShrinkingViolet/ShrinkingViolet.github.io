@@ -6,7 +6,7 @@
   <link href="http://shviolet.tk/atom.xml" rel="self"/>
   
   <link href="http://shviolet.tk/"/>
-  <updated>2021-02-14T12:15:43.639Z</updated>
+  <updated>2021-02-25T11:35:07.834Z</updated>
   <id>http://shviolet.tk/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://shviolet.tk/2020/12/12/NOIp2020%E6%B8%B8%E8%AE%B0/"/>
     <id>http://shviolet.tk/2020/12/12/NOIp2020%E6%B8%B8%E8%AE%B0/</id>
     <published>2020-12-11T16:00:00.000Z</published>
-    <updated>2021-02-14T12:15:43.639Z</updated>
+    <updated>2021-02-25T11:35:07.834Z</updated>
     
     <content type="html"><![CDATA[<h2 id="day-0"><a href="#day-0" class="headerlink" title="day 0"></a>day 0</h2><p>在教室度<del>划</del>过一个早上之后，当天下午我们便出发前往福州。车上的空气着实很闷，一向不晕车的我也感到头晕。原想在车上将pcr的图推一推，终于是抵不住头晕和生物钟改变的影响(没午睡)而睡了过去，中午策划的车上划水计划宣告破产。与此同时，我身旁的lw同学却带着个耳机，嫖着我的流量打着邦邦(扣鼻)。<br>一到福州，连行李也没放便去试机了(虽然也没什么行李)。本着速战速决的原则，原本计划着往评测机上交个<strong>shutdown</strong>便溜，却忘记了这压根不是在线评测(虽然在线评测交<strong>shutdown</strong>貌似也没啥用)，还因为习惯性<strong>F11</strong>编译把自己的机子给关了(雾)。在监考老师异样的目光下，我赶紧重启完机子便赶紧溜之大吉。<br>回了旅馆就开始修中午出现问题的索引。然而查遍google都没有解决问题，苦战3小时无果后只能开始紧急转移文件并重装系统，直到隔天1:30+才得以入睡。经过这一个晚上，我深切感受到了没有及时给磁盘分区带来的危害。(C盘战士的悔悟)  </p><h2 id="day-1"><a href="#day-1" class="headerlink" title="day 1"></a>day 1</h2><p>虽然相当晚睡，但也许是因为考前的激动，我仍起得相当早。<br>在旅馆门口简单解决早饭后，我们便踏上了前往考场<del>(刑场)</del>的路。<br>没休息够终究是还是造成了影响，开考后的前30分钟我始终是处于萎靡不振的状态。好在及时振作起来，否则也许这次NOIp会是这辈子的第一次爆零吧。<br>浏览题目:<br><strong>T1</strong>是相当快就有了思路，但由于打字不慎，对着一个简单的gcd函数便调了10多分钟，最后发现是括号前忘记加上函数名……真是低级的失误。<br><strong>T2</strong>是个字符串的题，简单看了下觉得不太好写便直接跳到下一题。<br><strong>T3</strong>的题目活生生的一道50根柱子的汉诺塔。顺带一提发来的checker文件尝试编译却报错至今不懂是什么原因。<br><strong>T4</strong>的暴力相当好码，我也很快便码出了暴力。但当我尝试对它进行各种优化时，便出了奇奇怪怪的问题。debug无果后便尝试其它优化方式。想法越来越多，每个却都不好实现。挑选一个想法重构代码，却在最后发现这是错误的。这时时间已经所剩不多，我也没有时间和耐心去调前面的题目，便孤注一掷全力攻克最后一题。结果是知道最后我也没有调出最后一题。<br>出考场时便很清楚，自己这次是凉了。<br>由于心情不那么的美丽，又没休息够，我在车上整整睡了一路。与此同时，类似的，我们的lw同学依旧带着耳机，嫖着流量，打着邦邦。据事后一位不愿透露姓名的知情人士透露，lw同学打邦邦整整持续了一路。<br>回到学校，想进去拿作业，然而自己现在全副武装，电脑手机一个不落，生怕撞见我们那喜爱巡查的段长。犹豫再三，最后还是冒着生命危险(雾)进了校园，并幸运的没有被段长撞见。<br>当天晚上，洛谷便有民间数据出炉。自测一下，和预期一样，果然是凉了。</p><hr><p>总而言之，NOIp2020就这么过去了，而我接下来也将把精力放在课内的学习上。<br>虽然NOIp2020考得并不那么理想，但我想说的是：</p><blockquote><p>此生无悔入OI，来世AK IOI !</p></blockquote><p><img src="https://pics.shviolet.tk/origin/NOIp2020.jpg" alt=""></p>]]></content>
     
@@ -36,10 +36,10 @@
     
     
     
-    <category term="-生活" scheme="http://shviolet.tk/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="http://shviolet.tk/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="-日记" scheme="http://shviolet.tk/tags/%E6%97%A5%E8%AE%B0/"/>
+    <category term="日记" scheme="http://shviolet.tk/tags/%E6%97%A5%E8%AE%B0/"/>
     
   </entry>
   
