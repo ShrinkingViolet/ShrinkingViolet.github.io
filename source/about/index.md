@@ -7,7 +7,7 @@ comments: false
 
 ![](http://ipcounter.ihcr.top/)
 
-ShViolet  
+Yoruet  
 高中生在读  
 一条目前为止碌碌无为，却依旧在努力学习的咸鱼  
 英语，日语苦手，希望尽早掌握这两门语言qaq  
